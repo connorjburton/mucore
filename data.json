@@ -1431,6 +1431,338 @@
         {
             "artist": "Charles Mingus",
             "album": "The Black Saint and the Sinner Lady"
+        },
+        {
+            "artist": "Eric Dolphy",
+            "album": "Out to Lunch"
+        },
+        {
+            "artist": "Pharoah Sanders",
+            "album": "Karma"
+        },
+        {
+            "artist": "Sun Ra and His Astro Infinity Arkestra",
+            "album": "Atlantis"
+        },
+        {
+            "artist": "Andrew Hill",
+            "album": "Point of Departure"
+        },
+        {
+            "artist": "Cecil Taylor",
+            "album": "Unit Structures"
+        },
+        {
+            "artist": "Albert Ayler",
+            "album": "Spiritual Unity"
+        },
+        {
+            "artist": "Peter Brotzmann",
+            "album": "Machine Gun"
+        },
+        {
+            "artist": "Bill Evans",
+            "album": "Waltz for Debby"
+        }
+    ],
+    [
+        {
+            "artist": "Miles Davis",
+            "album": "Bitches Brew"
+        },
+        {
+            "artist": "Keith Jarrett",
+            "album": "The Koln Concert"
+        },
+        {
+            "artist": "Alice Coltrane",
+            "album": "Journey in Satchidanada"
+        },
+        {
+            "artist": "Bill Evans Trio",
+            "album": "Sunday at the Village Vanguard"
+        },
+        {
+            "artist": "Herbie Hancock",
+            "album": "Headhunters"
+        },
+        {
+            "artist": "Stan Getz & Joao Gilberto",
+            "album": "Getz/Gilberto"
+        },
+        {
+            "artist": "Max Roach",
+            "album": "We Insist! Max Roach's Freedom Now Suite"
+        },
+        {
+            "artist": "Grant Green",
+            "album": "Idle Moments"
+        },
+        {
+            "artist": "Duke Ellington",
+            "album": "Money Jungle"
+        },
+        {
+            "artist": "Wayne Shorter",
+            "album": "Speak No Evil"
+        },
+        {
+            "artist": "Esbjorn Svensson Trio",
+            "album": "Viaticum"
+        },
+        {
+            "artist": "John Zorn",
+            "album": "Naked City"
+        }
+    ],
+    [
+        {
+            "artist": "Horace Silver",
+            "album": "Song For My Father"
+        },
+        {
+            "artist": "Duke Ellington",
+            "album": "Far East Suite"
+        },
+        {
+            "artist": "Lee Morgan",
+            "album": "The Sidewinder"
+        },
+        {
+            "artist": "Ryo Fukui",
+            "album": "Scenery"
+        },
+        {
+            "artist": "Omette Coleman",
+            "album": "Free Jazz"
+        },
+        {
+            "artist": "Sonny Sharrock",
+            "album": "Ask The Ages"
+        },
+        {
+            "artist": "Freddie Hubbarrd",
+            "album": "Red Clay"
+        },
+        {
+            "artist": "Moondog",
+            "album": "Moondog"
+        },
+        {
+            "artist": "Kamasi Washington",
+            "album": "The Epic"
+        },
+        {
+            "artist": "The Seatbelts",
+            "album": "Cowboy Bebop"
+        },
+        {
+            "artist": "The Necks",
+            "album": "Sex"
+        },
+        {
+            "artist": "Fire! Orchestra",
+            "album": "Exit!"
+        }
+    ],
+    [
+        {
+            "artist": "Black Sabbath",
+            "album": "Paranoid"
+        },
+        {
+            "artist": "Metallica",
+            "album": "Master of Puppets"
+        },
+        {
+            "artist": "Megadeth",
+            "album": "Rust In Peace"
+        },
+        {
+            "artist": "Slayer",
+            "album": "Reign in Blood"
+        },
+        {
+            "artist": "Candlemass",
+            "album": "Epicus Doomicus Metallicus"
+        },
+        {
+            "artist": "Bathory",
+            "album": "Blood Fire Death"
+        },
+        {
+            "artist": "Death",
+            "album": "Human"
+        },
+        {
+            "artist": "Morbid Angel",
+            "album": "Altars of Madness"
+        },
+        {
+            "artist": "Vektor",
+            "album": "Outer Isolation"
+        },
+        {
+            "artist": "Iron Maiden",
+            "album": "Powerslave"
+        },
+        {
+            "artist": "Kyuss",
+            "album": "Welcome to Sky Valley"
+        },
+        {
+            "artist": "Burzum",
+            "album": "Filosofem"
+        }
+    ],
+    [
+        {
+            "artist": "Dissection",
+            "album": "Storm of the Light's Bane"
+        },
+        {
+            "artist": "Ulver",
+            "album": "Bergtatt - Et eeventyr i 5 capiller"
+        },
+        {
+            "artist": "Immortal",
+            "album": "At the Heart of Winter"
+        },
+        {
+            "artist": "Neurosis",
+            "album": "Through Silver in Blood"
+        },
+        {
+            "artist": "Litugy",
+            "album": "Aesthethica"
+        },
+        {
+            "artist": "Gorguts",
+            "album": "Obscura"
+        },
+        {
+            "artist": "Darkthrone",
+            "album": "Transilvanian Hunger"
+        },
+        {
+            "artist": "Earth",
+            "album": "Earth 2"
+        },
+        {
+            "artist": "Sunn O)))",
+            "album": "Monoliths & Dimensions"
+        },
+        {
+            "artist": "Sleep",
+            "album": "Dopesmoker"
+        },
+        {
+            "artist": "Electric Wizard",
+            "album": "Dopethrone"
+        },
+        {
+            "artist": "Peste Noire",
+            "album": "La Saine des siodes - Panegyrique de la degeneres"
+        }
+    ],
+    [
+        {
+            "artist": "Type O Negative",
+            "album": "Blood Kisses"
+        },
+        {
+            "artist": "Summoning",
+            "album": "Stronghold"
+        },
+        {
+            "artist": "Pig Destroyer",
+            "album": "Prowler in the Yard"
+        },
+        {
+            "artist": "Converge",
+            "album": "Jane Doe"
+        },
+        {
+            "artist": "Atheist",
+            "album": "Unquestionable Presence"
+        },
+        {
+            "artist": "Melvins",
+            "album": "Houdini"
+        },
+        {
+            "artist": "Demlich",
+            "album": "Nespithe"
+        },
+        {
+            "artist": "Agalloch",
+            "album": "The Mantle"
+        },
+        {
+            "artist": "Isis",
+            "album": "Panoptioon"
+        },
+        {
+            "artist": "Mastodon",
+            "album": "Leviathan"
+        },
+        {
+            "artist": "Boris",
+            "album": "Boris at Last - Feedbacker"
+        },
+        {
+            "artist": "Deftones",
+            "album": "Saturday Night Wrist"
+        }
+    ],
+    [
+        {
+            "artist": "Napalm Death",
+            "album": "Scum"
+        },
+        {
+            "artist": "Cryptopsy",
+            "album": "None So Vile"
+        },
+        {
+            "artist": "Opeth",
+            "album": "Blackwater Park"
+        },
+        {
+            "artist": "maudlin of the Well",
+            "album": "Bath"
+        },
+        {
+            "artist": "Discorance Axis",
+            "album": "The Inalienable Dreamless"
+        },
+        {
+            "artist": "Murmuure",
+            "album": "Murmuure"
+        },
+        {
+            "artist": "Primus",
+            "album": "Frizzle Fry"
+        },
+        {
+            "artist": "The Angelic Process",
+            "album": "Weighing Souls with Sand"
+        },
+        {
+            "artist": "Acid Bath",
+            "album": "When the Kite String Pops"
+        },
+        {
+            "artist": "Deathspell Omega",
+            "album": "Paracletus"
+        },
+        {
+            "artist": "Korn",
+            "album": "Korn"
+        },
+        {
+            "artist": "Deafheaven",
+            "album": "Sunbather"
         }
     ]
 ]
