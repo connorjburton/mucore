@@ -2,7 +2,8 @@
   "name": "mucore",
   "version": "0.0.1",
   "scripts": {
-    "getAlbumDetails": "node --experimental-fetch --no-warnings -r ts-node/register ./bin/getAlbumDetails"
+    "albumsToReleases": "node --experimental-fetch --no-warnings -r ts-node/register ./bin/albumsToReleases",
+    "albumsToReleases:test": "node --experimental-fetch --no-warnings -r ts-node/register ./bin/__tests__/releaseToHtml.test.ts"
   },
   "devDependencies": {
     "@types/debug": "^4.1.7",

@@ -67,7 +67,7 @@ type Identifier = {
     value: string
 }
 
-type Image = {
+export type Image = {
     height: number,
     resource_url: string,
     type?: string,
@@ -84,7 +84,7 @@ type Label = {
     resource_url: string
 }
 
-type Track = {
+export type Track = {
     duration: string,
     position: string,
     title: string,
@@ -103,6 +103,7 @@ export type Release = {
     title: string,
     id: number,
     artists: Artist[],
+    artists_sort: string,
     data_quality: string,
     thumb: string,
     community: {
@@ -118,37 +119,30 @@ export type Release = {
         want: number
     },
     companies: Company[],
-    country: string,
+    country?: string,
     date_added: string,
     date_changed: string,
-    estimated_weight: number,
+    estimated_weight?: number,
     extraartists: Artist[],
     format_quantity: number,
     formats: Format[],
     genres: string[],
     identifiers: Identifier[],
-    images: Image[],
+    images?: Image[],
     labels: Label[],
-    lowest_price: number,
-    master_id: number,
-    master_url: string,
-    notes: string,
+    lowest_price: number | null,
+    master_id?: number,
+    master_url?: string,
+    notes?: string,
     num_for_sale: number,
-    released: string,
-    released_formatted: string,
+    released?: string,
+    released_formatted?: string,
     resource_url: string,
     series: unknown[],
     status: string,
     styles: string[],
-    tracklist: Track[],
+    tracklist?: Track[],
     uri: string,
-    videos: Video[],
+    videos?: Video[],
     year: number
-}
-
-export type Output = {
-    album: string,
-    artist: string,
-    images: Omit<Image, 'type' | 'uri150'>[],
-    videos: Omit<Video, 'Description'>[],
 }
